@@ -58,14 +58,6 @@ My long-term goal is to **contribute to the technological transformation of Soma
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anas4167\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas4167\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🔥 Current Focus
 
 * Learning **Spring Boot**
