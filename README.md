@@ -77,6 +77,7 @@ My long-term goal is to **contribute to the technological transformation of Soma
 ## 🤝 Connect With Me
 
 * GitHub: https://github.com/Anas4167
+* WhatsApp: https://wa.me/252613694167
 
 ---
 
