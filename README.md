@@ -35,11 +35,11 @@ My long-term goal is to **contribute to the technological transformation of Soma
 * CSS
 * JavaScript
 * React
+* Next
 
 **Backend**
 
 * Express.js
-* Next.js
 * Node.js
 
 **Database**
