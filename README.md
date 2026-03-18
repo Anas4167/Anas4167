@@ -1,12 +1,8 @@
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Anas4167\&theme=dark\&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Anas4167&theme=dark&hide_border=false)<br/>
 
-![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anas4167\&show_icons=true\&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas4167\&layout=compact\&theme=dark)
-
----
 
 # 👋 Hi, I'm Anas Abdullaahi
 
@@ -16,40 +12,49 @@
 
 ## 👨‍💻 About Me
 
-I am a **Full Stack Developer** passionate about building modern, scalable, and efficient applications.
+I am a **Full Stack Developer** passionate about building modern, scalable, and efficient applications. I enjoy working on both **frontend and backend development**, creating complete solutions that solve real-world problems.
 
-I enjoy working on both **frontend and backend development**, creating complete solutions that solve real-world problems.
+Currently, I am expanding my knowledge in **Spring Boot** for backend development and **Machine Learning** to explore intelligent systems and data-driven applications.
 
-Currently, I am learning:
-
-* ⚡ **Spring Boot**
-* 🤖 **Machine Learning**
-
-🎯 **Goal:** Contribute to Somalia’s digital transformation and build impactful tech solutions.
+My long-term goal is to **contribute to the technological transformation of Somalia**, helping build innovative digital systems and empowering the next generation of developers.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+**Languages**
 
-Java • Python • JavaScript • C#
+* Java
+* Python
+* JavaScript
+* C#
 
-### 🎨 Frontend
+**Frontend**
 
-HTML • CSS • React • Next.js
+* HTML
+* CSS
+* JavaScript
+* React
+* Next
 
-### ⚙️ Backend
+**Backend**
 
-Node.js • Express.js
+* Express.js
+* Node.js
 
-### 🗄️ Database
+**Database**
 
-MySQL • MongoDB
+* MySQL
+* MongoDB
 
-### 🧰 Tools
+**Tools**
 
-Git • GitHub • VS Code • Visual Studio • Anaconda • WebStorm
+* Git
+* GitHub
+* VS Code
+* Visual Studio
+* Anaconda
+* WebStorm
 
 ---
 
@@ -64,16 +69,21 @@ Git • GitHub • VS Code • Visual Studio • Anaconda • WebStorm
 ## 🎯 Future Goals
 
 * Become a **Machine Learning Engineer**
-* Build impactful **AI systems**
-* Grow Somalia’s **tech ecosystem**
+* Build impactful **AI solutions**
+* Help advance the **technology ecosystem in Somalia**
 
 ---
 
 ## 🤝 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/Anas4167)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp)](https://wa.me/252613694167)
+* GitHub: https://github.com/Anas4167
+* WhatsApp: https://wa.me/252613694167
 
 ---
 
-⭐ **Always learning, building, and improving.**
+⭐ *Always learning, building, and improving.*
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
