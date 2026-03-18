@@ -35,7 +35,7 @@ Java • Python • JavaScript • C#
 
 ### 🎨 Frontend
 
-HTML • CSS • React • Next.js
+HTML • CSS • React • Next.js • Tailwind.CSS
 
 ### ⚙️ Backend
 
@@ -47,7 +47,7 @@ MySQL • MongoDB
 
 ### 🧰 Tools
 
-Git • GitHub • VS Code • Visual Studio • Anaconda • WebStorm
+Git • GitHub • VS Code • Visual Studio • WebStorm
 
 ---
 
