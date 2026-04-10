@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Anas Abdullaahi
 
-💻 **Full Stack Developer** | 🚀 Passionate about Technology
+💻 **MERN Stack Developer** | 🚀 Passionate about Technology
 
 ---
 
