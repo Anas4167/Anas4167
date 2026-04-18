@@ -31,7 +31,7 @@ Currently, I am learning:
 
 ### 💻 Languages
 
-Java • Python • JavaScript • C#
+Java • Python • JavaScript • TypeScript • C# 
 
 ### 🎨 Frontend
 
