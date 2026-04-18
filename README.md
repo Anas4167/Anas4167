@@ -47,7 +47,7 @@ MySQL • MongoDB
 
 ### 🧰 Tools
 
-<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; gap: 30px; flex-wrap: wrap; align-items: center;">
 
   <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
