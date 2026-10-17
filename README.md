@@ -18,8 +18,8 @@ I enjoy working on both **frontend and backend development**, creating complete 
 
 Currently, I am learning:
 
-* ⚡ **Spring Boot**
-* 🤖 **Machine Learning**
+* ⚡ **Laravel**
+* 🤖 **Data Science and Machine Learning**
 
 🎯 **Goal:** Contribute to Somalia’s digital transformation and build impactful tech solutions.
 
@@ -29,19 +29,19 @@ Currently, I am learning:
 
 ### 💻 Languages
 
-Java • Python • JavaScript • TypeScript • C# 
+Java • Python • JavaScript • PHP • C# 
 
 ### 🎨 Frontend
 
-HTML • CSS • React • Next.js • Tailwind.CSS
+HTML • CSS • React • Tailwind.CSS
 
 ### ⚙️ Backend
 
-Node.js • Express.js
+• Node.js • Express.js • SpringBoot • ASP.NET Core
 
 ### 🗄️ Database
 
-MySQL • MongoDB
+MySQL • MongoDB • postgress SQL • Oracle
 
 
 
@@ -49,7 +49,7 @@ MySQL • MongoDB
 
 ## 🔥 Current Focus
 
-* Learning **Spring Boot**
+* Learning **Laravel**
 * Studying **Machine Learning**
 * Building **Full Stack Projects**
 
